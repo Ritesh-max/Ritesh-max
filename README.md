@@ -1,16 +1,81 @@
-## Hi there 👋
 
-<!--
-**Ritesh-max/Ritesh-max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi 👋, I'm Ritesh Jha
 
-Here are some ideas to get you started:
+### Java Backend Developer | Spring Boot | Microservices
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a Java Backend Developer passionate about building scalable, secure, and reliable backend applications.
+
+- 💻 Working with Java and Spring Boot
+- 🚀 Building Microservices-based applications
+- 🏦 Experience in Banking Automation Systems
+- 📚 Currently improving DSA, System Design, and Cloud Technologies
+- 🎯 Preparing for advanced Backend Developer opportunities
+
+---
+
+## 🛠️ Tech Stack
+
+### Backend
+- Java 17
+- Spring Boot
+- Spring Security
+- Spring Data JPA
+- REST APIs
+- Microservices
+
+### Messaging & Architecture
+- Apache Kafka
+- Drools
+- jBPM
+- Resilience4j
+- API Gateway
+
+### Database & Cloud
+- PostgreSQL
+- MySQL
+- AWS
+- Docker
+- Kubernetes
+
+### Tools
+- Git
+- GitHub
+- GitLab
+- JUnit
+- Mockito
+
+---
+
+## 🚀 Featured Projects
+
+### 🏦 Banking Transaction & Approval Platform
+Enterprise backend project for transaction processing and multi-level approval workflows.
+
+**Technologies:** Java | Spring Boot | Kafka  | Docker | Kubernetes
+
+### 🔐 Spring Boot Security Service
+Backend application implementing JWT authentication and role-based access control.
+
+**Technologies:** Java | Spring Boot | Spring Security | JWT
+
+---
+
+## 📚 Currently Learning
+
+- Advanced Java
+- Spring Boot Internals
+- Microservices Architecture
+- System Design
+- Kafka
+- AWS
+- DSA
+
+---
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/Ritesh-max
+
+---
+
+⭐ Thanks for visiting my profile!
